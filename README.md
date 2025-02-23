@@ -584,19 +584,3 @@ Support this project with your organization. Your logo will show up here with a 
 <a href="https://opencollective.com/mattn-go-sqlite3/organization/7/website"><img src="https://opencollective.com/mattn-go-sqlite3/organization/7/avatar.svg"></a>
 <a href="https://opencollective.com/mattn-go-sqlite3/organization/8/website"><img src="https://opencollective.com/mattn-go-sqlite3/organization/8/avatar.svg"></a>
 <a href="https://opencollective.com/mattn-go-sqlite3/organization/9/website"><img src="https://opencollective.com/mattn-go-sqlite3/organization/9/avatar.svg"></a>
-
-# License
-
-MIT: http://mattn.mit-license.org/2018
-
-sqlite3-binding.c, sqlite3-binding.h, sqlite3ext.h
-
-The -binding suffix was added to avoid build failures under gccgo.
-
-In this repository, those files are an amalgamation of code that was copied from SQLite3. The license of that code is the same as the license of SQLite3.
-
-# Author
-
-Yasuhiro Matsumoto (a.k.a mattn)
-
-G.J.R. Timmer
